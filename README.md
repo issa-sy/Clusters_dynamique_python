@@ -10,4 +10,4 @@
 
  Réference 
 
- Maugis, P. (n.d.). Étude par Dynamique d’Amas de l’influence des défauts d’irradiation sur la migration des gaz de fission dans le dioxyde d’uranium. Theses.fr. https://theses.fr/2013AIXM4376
+Étude par Dynamique d’Amas de l’influence des défauts d’irradiation sur la migration des gaz de fission dans le dioxyde d’uranium. Theses.fr. https://theses.fr/2013AIXM4376
