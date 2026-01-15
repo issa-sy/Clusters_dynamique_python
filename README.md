@@ -1,7 +1,7 @@
 # Calcule des rayon des amas 
  Si on considérant que les bulles sont des sphères et les boucles des disques : les Rayon des amas sont donner par les formule :
 
- ![Rayon des amas](Rayon_des_amas.png)
+ ![Rayon des amas](Rayon_des_amas_formules.png)
  
  ![Rayon des amas](./Rayon_des_amas.png)
 
